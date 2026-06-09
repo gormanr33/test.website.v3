@@ -1,0 +1,38 @@
+---
+title: Rachel Gorman
+image: mousetest.jpg
+about:
+  template: trestles
+  links:
+    - text: LinkedIn
+      url: "https://www.linkedin.com/in/rachel-gorman-6825431b9"
+    - text: GitHub
+      icon: github
+      url: "https://github.com/gormanr33"
+    - text: Email
+      icon: envelope
+      href: mailto:gormanr33@gmail.com
+comments: false
+---
+
+```{=html}
+<style>
+body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+</style>
+```
+
+::: {.column-page}
+
+## About Me
+
+I’m a graduate student in the M.S. Applied Digital Sociology program at Hunter College with a research focus on how digital far-right radicalization transitions to violent extremism offline. I am focused on mixed methodology research methods and open-source investigation. My academic background is in Criminology and Sociolegal studies, focusing on the United States carceral system and underlying power structures. My current research interest is how the interaction between the power structures of the US criminal justice system interacts with far-right radicalization and violence against marginalized groups, domestic violence, and sexual violence. 
+
+I received a B.A. in Criminology with a minor in Sociolegal Studies from the University of Denver (Denver, CO) in 2022 and an A.A. in Criminal Justice from SUNY Ulster (Stone Ridge, NY) in 2020. At the University of Denver, I worked as a research assistant under Professor Michael Gibson-Light, using qualitative methods for a project on unionizing working prisoners in the United States in the 1970s. 
+
+Most of my non-academic career time has been spent working in either bookstores or bars. I am passionate about independent publishing and small presses, experimenting with variations on a classic Negroni, and supporting translated works by queer authors. I currently reside in New York City where you can sometimes find me reading in a park, sewing with friends at a coffee shop, or exploring the streets looking for cats in dumpsters.
+
+## Selected Projects
+:::
