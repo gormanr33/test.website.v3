@@ -197,14 +197,16 @@ html {
   margin-bottom: 1.5rem;
 }
 
-/* ---------- Hero Button ---------- */
+/* ---------- Button ---------- */
 
 .hero-button {
   display: inline-block;
 
   margin-top: 2rem;
 
-  padding: 0.75rem 3rem;
+  padding:
+    0.75rem
+    3rem;
 
   border: 1.5px solid #6e5084;
   border-radius: 999px;
@@ -220,50 +222,6 @@ html {
   color: white;
 }
 
-/* ---------- Hero Icons ---------- */
-
-.hero-icons {
-  display: flex;
-  flex-direction: row;
-  gap: 1rem;
-
-  margin-top: 1.5rem;
-
-  justify-content: flex-start;
-  align-items: center;
-}
-
-/* Icon button styling */
-.hero-icon {
-  width: 44px;
-  height: 44px;
-
-  display: flex;
-  align-items: center;
-  justify-content: center;
-
-  border: 1.5px solid #6e5084;
-  border-radius: 50%;
-
-  color: #6e5084;
-  text-decoration: none;
-
-  transition: 0.25s ease;
-  flex-shrink: 0; /* prevents distortion in flex layouts */
-}
-
-.hero-icon:hover {
-  background-color: #6e5084;
-  color: white;
-}
-
-/* SVG sizing */
-.hero-icon svg {
-  width: 20px;
-  height: 20px;
-  fill: currentColor;
-}
-
 /* ---------- Image ---------- */
 
 .hero-image {
@@ -272,14 +230,19 @@ html {
 
 .hero-image img {
   width: 100%;
-  max-height: 85vh;
-  height: auto;
+  height: 85vh;
+
   object-fit: cover;
+
   display: block;
 }
 
 /* ---------- Remove Quarto Width Constraints ---------- */
 
+main.content {
+  max-width: 100% !important;
+  padding: 0 !important;
+}
 
 /* ---------- Mobile ---------- */
 

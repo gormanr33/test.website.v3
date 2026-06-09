@@ -32,7 +32,9 @@ format:
     theme:
       - lumen
       - brand
-    css: customstyle.css
+    css: 
+      - customstyle.css
+      - aboutstyle.css
     toc: true
 
 editor: visual
