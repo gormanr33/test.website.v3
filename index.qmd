@@ -12,7 +12,7 @@ I’m a graduate student in Applied Digital Sociology at Hunter College. My rese
 
 My academic background is in criminology and sociological studies, with experience as a qualitative research assistant. I am passionate about contributing to impactful research through academic, non-profit, and industry opportunities in research, writing, and editorial work.
 
-<a href="about.qmd" class="hero-button">Read More</a>
+<a href="about3.qmd" class="hero-button">Read More</a>
 
 </div>
 
