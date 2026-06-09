@@ -87,3 +87,90 @@
 .about-text p {
   margin-bottom: 1rem;
 }
+
+@media (max-width: 1000px) {
+
+  /* =========================
+     OVERALL LAYOUT (MOBILE)
+     ========================= */
+
+  .about-layout {
+    flex-direction: column;
+    align-items: center;
+
+    gap: 2rem;
+
+    margin: 2.5rem auto;
+    padding: 0 1.5rem;
+
+    text-align: center;
+  }
+
+  /* =========================
+     TEXT COLUMN
+     ========================= */
+
+  .about-text {
+    width: 100%;
+    max-width: 600px;
+  }
+
+  .about-text h1 {
+    font-size: 2.2rem;
+    margin-bottom: 1rem;
+  }
+
+  .about-text p {
+    font-size: 1rem;
+    line-height: 1.6;
+  }
+
+  /* =========================
+     IMAGE COLUMN
+     ========================= */
+
+  .about-image {
+    width: 100%;
+    align-items: center;
+  }
+
+  .about-image img {
+    width: 80%;
+    max-width: 280px;
+
+    max-height: none;
+
+    border-radius: 16px;
+  }
+
+  /* =========================
+     ICONS (FIXED MOBILE ROW)
+     ========================= */
+
+  .about-icons {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+    gap: 1rem;
+
+    width: 100%;
+
+    margin-top: 1rem;
+  }
+
+  .about-icon {
+    width: 42px;
+    height: 42px;
+
+    flex-shrink: 0;
+  }
+
+  /* =========================
+     OPTIONAL: reduce visual noise
+     ========================= */
+
+  .about-icon:hover {
+    transform: scale(1.05);
+  }
+}
