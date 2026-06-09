@@ -1,25 +1,32 @@
 ---
 page-layout: full
 ---
-<div class="hero-layout">
 
-<div class="hero-text">
+::: {.grid}
 
-::: {.hero-text}
+<!-- Left Column: Biography / Text Box (Takes up 7/12th of the width) -->
+::: {.g-col-12 .g-col-md-7}
+## Hello! I'm Jane Doe
 
-text 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-## Non-Academic Projects
-
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 :::
 
-::: {.d-flex .flex-column .align-items-center}
-![](mouse2.jpg){width="300px"}
+<!-- Right Column: Image and Centered Icons Stack (Takes up 5/12th of the width) -->
+::: {.g-col-12 .g-col-md-5 .d-flex .flex-column .align-items-center}
 
+<!-- The Profile Image -->
+![](mouse2.jpg){width="280px" .img-fluid .rounded-circle}
+
+<!-- Centered Social Icons directly underneath the image -->
 ::: {.d-flex .gap-3 .mt-3}
 <!-- Centered Row of Clickable Icons -->
 <a href="https://github.com/gormanr33" target="_blank" class="text-dark"><i class="bi bi-github fs-2"></i></a>
 <a href="https://www.linkedin.com/in/rachel-gorman-6825431b9" target="_blank" class="text-primary"><i class="bi bi-linkedin fs-2"></i></a>
 <a href="mailto:gormanr33@gmail.com" class="text-danger"><i class="bi bi-envelope-fill"></i></a>
 :::
+
+:::
+
 :::
