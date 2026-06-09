@@ -1,0 +1,263 @@
+/*==================================================
+  Custom Quarto Theme
+  Palette: 
+  Background: #f7f1fc
+  Main Text:  #226663
+  Accent:     #6e5084
+==================================================*/
+
+/* ---------- Root Variables ---------- */
+:root {
+  --bg-color: #f7f1fc;
+  --text-color: #226663;
+  --accent-color: #6e5084;
+
+  --link-color: #6e5084;
+  --link-hover: #5a3f6e;
+
+  --navbar-bg: #f7f1fc;
+  --navbar-text: #6e5084;
+
+  --code-bg: #efe7f7;
+  --border-color: #dccfe8;
+
+  --callout-bg: #ffffff;
+  --callout-border: #6e5084;
+}
+
+/* ---------- Global Styling ---------- */
+body {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  font-family: "Inter", "Segoe UI", sans-serif;
+  line-height: 1.7;
+}
+
+/* ---------- Headings ---------- */
+h1, h2, h3, h4, h5, h6 {
+  color: var(--text-color);
+  font-weight: 700;
+}
+
+h1.title {
+  color: var(--text-color);
+}
+
+/* ---------- Links ---------- */
+a {
+  color: var(--link-color);
+  text-decoration: none;
+  transition: 0.2s ease;
+}
+
+a:hover {
+  color: var(--link-hover);
+  text-decoration: underline;
+}
+
+/* ---------- Navbar ---------- */
+.navbar {
+  background-color: var(--navbar-bg) !important;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.navbar-brand,
+.navbar-nav .nav-link,
+.nav-footer {
+  color: var(--navbar-text) !important;
+  font-weight: 500;
+}
+
+.navbar-nav .nav-link:hover {
+  color: var(--text-color) !important;
+}
+
+/* ---------- Sidebar ---------- */
+.sidebar nav[role="doc-toc"] ul > li > a {
+  color: var(--accent-color);
+}
+
+.sidebar nav[role="doc-toc"] ul > li > a:hover {
+  color: var(--text-color);
+}
+
+/* ---------- Code Blocks ---------- */
+pre,
+code {
+  background-color: var(--code-bg);
+  border-radius: 8px;
+}
+
+pre {
+  padding: 1rem;
+  border: 1px solid var(--border-color);
+}
+
+/* ---------- Tables ---------- */
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th {
+  background-color: #ece1f5;
+  color: var(--text-color);
+}
+
+th,
+td {
+  border: 1px solid var(--border-color);
+  padding: 0.75rem;
+}
+
+/* ---------- Callouts ---------- */
+.callout {
+  background-color: var(--callout-bg);
+  border-left: 5px solid var(--callout-border);
+  border-radius: 10px;
+}
+
+.callout-title {
+  color: var(--accent-color);
+  font-weight: 700;
+}
+
+/* ---------- Blockquotes ---------- */
+blockquote {
+  border-left: 4px solid var(--accent-color);
+  padding-left: 1rem;
+  color: #4b4b4b;
+  font-style: italic;
+}
+
+/* ---------- Buttons ---------- */
+.btn,
+.btn-primary {
+  background-color: var(--accent-color);
+  border-color: var(--accent-color);
+  color: white;
+  border-radius: 10px;
+}
+
+.btn:hover,
+.btn-primary:hover {
+  background-color: #5a3f6e;
+  border-color: #5a3f6e;
+}
+
+/* ---------- TOC ---------- */
+#TOC {
+  background-color: rgba(255, 255, 255, 0.5);
+  border-radius: 12px;
+  padding: 1rem;
+}
+
+/* ---------- Smooth Scrolling ---------- */
+html {
+  scroll-behavior: smooth;
+}
+
+/* ---------- Selection Highlight ---------- */
+::selection {
+  background: #d9c5eb;
+  color: #226663;
+}
+
+/* ---------- Hero Layout ---------- */
+
+.hero-layout {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  gap: 4rem;
+
+  min-height: 100vh;
+
+  padding:
+    2rem
+    3rem
+    2rem
+    3rem;
+}
+
+/* ---------- Hero Text ---------- */
+
+.hero-text {
+  flex: 1;
+  max-width: 500px;
+}
+
+.hero-text h1 {
+  margin-bottom: 2rem;
+  line-height: 1.05;
+}
+
+.hero-text p {
+  margin-bottom: 1.5rem;
+}
+
+/* ---------- Button ---------- */
+
+.hero-button {
+  display: inline-block;
+
+  margin-top: 2rem;
+
+  padding:
+    0.75rem
+    3rem;
+
+  border: 1.5px solid #6e5084;
+  border-radius: 999px;
+
+  color: #6e5084;
+  text-decoration: none;
+
+  transition: 0.25s ease;
+}
+
+.hero-button:hover {
+  background-color: #6e5084;
+  color: white;
+}
+
+/* ---------- Image ---------- */
+
+.hero-image {
+  flex: 1.6;
+}
+
+.hero-image img {
+  width: 100%;
+  height: 85vh;
+
+  object-fit: cover;
+
+  display: block;
+}
+
+/* ---------- Remove Quarto Width Constraints ---------- */
+
+main.content {
+  max-width: 100% !important;
+  padding: 0 !important;
+}
+
+/* ---------- Mobile ---------- */
+
+@media (max-width: 1000px) {
+
+  .hero-layout {
+    flex-direction: column;
+    min-height: auto;
+  }
+
+  .hero-text h1 {
+    font-size: 3rem;
+  }
+
+  .hero-image img {
+    height: auto;
+  }
+}
