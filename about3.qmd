@@ -1,0 +1,36 @@
+---
+title: "Rachel Gorman"
+page-layout: full
+---
+
+
+::: {.hero-layout}
+
+::: {.hero-text}
+
+# Rachel Gorman
+
+Write your about text here. This will behave exactly like your hero section, so it will not break layout or overflow.
+
+You can include multiple paragraphs, like a normal About page.
+
+A second paragraph can go here for spacing and readability.
+
+::: 
+
+::: {.hero-image}
+
+![](mouse2.jpg)
+
+<!-- Buttons under image -->
+::: {.hero-buttons}
+
+[GitHub](https://github.com/gormanr33){.hero-button}
+[LinkedIn](https://www.linkedin.com/in/rachel-gorman-6825431b9){.hero-button}
+[Email](mailto:gormanr33@gmail.com){.hero-button}
+
+:::
+
+:::
+
+:::

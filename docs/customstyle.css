@@ -230,19 +230,14 @@ html {
 
 .hero-image img {
   width: 100%;
-  height: 85vh;
-
+  max-height: 85vh;
+  height: auto;
   object-fit: cover;
-
   display: block;
 }
 
 /* ---------- Remove Quarto Width Constraints ---------- */
 
-main.content {
-  max-width: 100% !important;
-  padding: 0 !important;
-}
 
 /* ---------- Mobile ---------- */
 
