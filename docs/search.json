@@ -32,7 +32,7 @@
     "href": "about3.html",
     "title": "Rachel Gorman",
     "section": "",
-    "text": "Rachel Gorman\nWrite your about text here. This will behave exactly like your hero section, so it will not break layout or overflow.\nYou can include multiple paragraphs, like a normal About page.\nA second paragraph can go here for spacing and readability."
+    "text": "Rachel Gorman\nWrite your about text here. This stays exactly the same as before — fully controlled layout, no Trestles."
   },
   {
     "objectID": "cv.html",
