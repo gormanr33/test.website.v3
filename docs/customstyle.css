@@ -225,10 +225,12 @@ html {
 /* ---------- Button ---------- */
 .hero-icons {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   gap: 1rem;
-  margin-top: 2rem;
-  align-items: flex-start;
+  margin-top: 1.5rem;
+  justify-content; flex-start;
+  align-items: center;
+
 }
 
 /* Icon button styling */
