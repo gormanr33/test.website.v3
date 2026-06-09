@@ -17,10 +17,10 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 ::: {.g-col-12 .g-col-md-5 .d-flex .flex-column .align-items-center}
 
 <!-- The Profile Image -->
-![](mouse2.jpg){width="280px" .img-fluid .rounded-circle}
+![](mouse2.jpg){width="280px" .img-fluid .rounded-4 .shadow-sm}
 
 <!-- Centered Social Icons directly underneath the image -->
-::: {.d-flex .gap-3 .mt-3}
+::: {.d-flex .justify-content-center .gap-4 .mt-4}
 <!-- Centered Row of Clickable Icons -->
 <a href="https://github.com/gormanr33" target="_blank" class="text-dark"><i class="bi bi-github fs-2"></i></a>
 <a href="https://www.linkedin.com/in/rachel-gorman-6825431b9" target="_blank" class="text-primary"><i class="bi bi-linkedin fs-2"></i></a>
