@@ -12,10 +12,8 @@ website:
     right:
       - href: index.qmd
         text: "Home"
-      - href: about3.qmd
-        text: "About"
       - href: about4.qmd
-        text: "TEST"
+        text: "About"
       - href: cv.qmd
         text: "CV"
       - href: currentprojects.qmd
@@ -36,7 +34,6 @@ format:
       - brand
     css: 
       - customstyle.css
-      - aboutstyle.css
     toc: true
 
 editor: visual

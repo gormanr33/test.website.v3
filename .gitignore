@@ -8,3 +8,7 @@
 **/*.quarto_ipynb
 
 /_site/
+.Rproj.user
+.Rproj.user
+.Rproj.user
+.Rproj.user

@@ -22,12 +22,11 @@ Most of my non-academic career time has been spent working in either bookstores 
 <!-- The Profile Image -->
 ![](mousetest.jpg){width="280px" .img-fluid .rounded-4 .shadow-sm}
 
-<!-- Centered Social Icons directly underneath the image -->
-::: {.d-flex .justify-content-center .gap-8 .mt-6}
-<!-- Centered Row of Clickable Icons -->
-<a href="https://github.com/gormanr33" target="_blank" class="text-dark"><i class="bi bi-github fs-2"></i></a>
-<a href="https://www.linkedin.com/in/rachel-gorman-6825431b9" target="_blank" class="text-primary"><i class="bi bi-linkedin fs-2"></i></a>
-<a href="mailto:gormanr33@gmail.com" class="text-danger"><i class="bi bi-envelope-fill"></i></a>
+<!-- Centered Social Outline Buttons -->
+::: {.d-flex .justify-content-center .gap-3 .mt-4}
+<a href="https://github.com/gormanr33" target="_blank" class="btn btn-outline-dark btn-lg px-3"><i class="bi bi-github fs-3"></i></a>
+<a href="https://www.linkedin.com/in/rachel-gorman-6825431b9" target="_blank" class="btn btn-outline-primary btn-lg px-3"><i class="bi bi-linkedin fs-3"></i></a>
+<a href="mailto:gormanr33@gmail.com" class="btn btn-outline-danger btn-lg px-3"><i class="bi bi-envelope-fill"></i></a>
 :::
 
 :::
