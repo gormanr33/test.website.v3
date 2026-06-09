@@ -12,10 +12,8 @@ website:
     right:
       - href: index.qmd
         text: "Home"
-      - href: about.qmd
-        text: "About"
       - href: about2.qmd
-        text: "About2"
+        text: "About"
       - href: cv.qmd
         text: "CV"
       - href: currentprojects.qmd
@@ -23,7 +21,7 @@ website:
       - icon: envelope
         href: mailto:gormanr33@gmail.com
       - icon: linkedin
-        href: "https://www.linkedin.com/in/rachel-gorman-6825431b"
+        href: "https://www.linkedin.com/in/rachel-gorman-6825431b9"
       - icon: github
         href: "https://github.com/gormanr33"
 
