@@ -3,3 +3,8 @@
 .RData
 .Ruserdata
 .Rproj.user
+
+/.quarto/
+**/*.quarto_ipynb
+
+/_site/
