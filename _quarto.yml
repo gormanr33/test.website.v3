@@ -1,0 +1,37 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - "*.qmd"
+    - "*.jpg"
+    - "*.css"
+  
+website:
+  title: "Rachel Gorman, MSc"
+  navbar:
+    right:
+      - href: index.qmd
+        text: "Home"
+      - href: about.qmd
+        text: "About"
+      - href: cv.qmd
+        text: "CV"
+      - href: currentprojects.qmd
+        text: "Current Projects"
+      - icon: envelope
+        href: mailto:gormanr33@gmail.com
+      - icon: linkedin
+        href: "https://linkedin.com/in/rachel-gorman-6825431b"
+      - icon: github
+        href: "https://github.com/gormanr33"
+
+format:
+  html:
+    theme:
+      - lumen
+      - brand
+    css: customstyle.css
+    toc: true
+
+editor: visual
+
