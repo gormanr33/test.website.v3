@@ -22,8 +22,10 @@ website:
         href: mailto:gormanr33@gmail.com
       - icon: linkedin
         href: "https://www.linkedin.com/in/rachel-gorman-6825431b9"
+        target: _blank
       - icon: github
         href: "https://github.com/gormanr33"
+        target: _blank
 
 format:
   html:
