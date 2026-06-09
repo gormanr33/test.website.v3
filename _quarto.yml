@@ -13,7 +13,9 @@ website:
       - href: index.qmd
         text: "Home"
       - href: about3.qmd
-        text: "About"        
+        text: "About"
+      - href: about4.qmd
+        text: "TEST"
       - href: cv.qmd
         text: "CV"
       - href: currentprojects.qmd
