@@ -42,6 +42,7 @@
 .about-icons {
   display: flex;
   flex-direction: row;
+  align-items: center;
   gap: 1rem;
 
   margin-top: 1rem;
@@ -58,14 +59,15 @@
   align-items: center;
   justify-content: center;
 
+  flex-shrink: 0;
+
   border: 1.5px solid #6e5084;
   border-radius: 50%;
 
   color: #6e5084;
   text-decoration: none;
 
-  transition: 0.25s ease;
-  flex-shrink: 0;
+  line-height: 0;
 }
 
 .about-icon:hover {
@@ -76,6 +78,10 @@
 .about-icon svg {
   width: 20px;
   height: 20px;
+
+  display: block;
+  margin: auto;
+
   fill: currentColor;
 }
 
@@ -101,10 +107,11 @@
 
     gap: 2rem;
 
+    max-width: 1000px;
     margin: 2.5rem auto;
     padding: 0 1.5rem;
 
-    text-align: center;
+    text-align: left;
   }
 
   /* =========================
@@ -150,25 +157,20 @@
      ========================= */
 
   .about-icons {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
 
-    gap: 1rem;
+  gap: 1rem;
 
-    width: 100%;
+  width: 100%;
 
-    margin-top: 1rem;
-  }
+  margin-top: 1rem;
 
-  .about-icon {
-    width: 42px;
-    height: 42px;
-
-    flex-shrink: 0;
-  }
-
+  visibility: visible;
+  opacity: 1;
+}
   /* =========================
      OPTIONAL: reduce visual noise
      ========================= */
