@@ -2,20 +2,18 @@
 page-layout: full
 ---
 
-<div class="hero-layout">
-
-<div class="hero-text">
-
+::::: hero-layout
+::: hero-text
 # Hi, I'm Rachel Gorman
 
 I’m a graduate student in Applied Digital Sociology at Hunter College. My research focuses on the intersection of digital spaces and society, exploring how online far-right radicalization translates into offline violence using mixed methodologies.
 
 My academic background is in criminology and sociological studies, with experience as a qualitative research assistant. I am passionate about contributing to impactful research through academic, non-profit, and industry opportunities in research, writing, and editorial work.
 
-<a href="about3.qmd" class="hero-button">Read More</a>
+<a href="about4.qmd" class="hero-button">Read More</a>
+:::
 
-</div>
-
-<div class="hero-image">
-
+::: hero-image
 ![](fall.jpg)
+:::
+:::::
