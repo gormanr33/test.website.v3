@@ -5,6 +5,8 @@ project:
     - "*.qmd"
     - "*.jpg"
     - "*.css"
+resources:
+  - CNAME
   
 website:
   title: "Rachel Gorman, MSc"
