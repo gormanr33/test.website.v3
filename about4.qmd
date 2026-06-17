@@ -2,9 +2,9 @@
 page-layout: full
 ---
 
-::: {.grid}
-
+:::::: grid
 <!-- Left Column: Biography / Text Box (Takes up 7/12th of the width) -->
+
 ::: {.g-col-12 .g-col-md-7}
 ## About Me
 
@@ -12,23 +12,20 @@ I’m a graduate student in the M.S. Applied Digital Sociology program at Hunter
 
 I received a B.A. in Criminology with a minor in Sociolegal Studies from the University of Denver (Denver, CO) in 2022 and an A.A. in Criminal Justice from SUNY Ulster (Stone Ridge, NY) in 2020. At the University of Denver, I worked as a research assistant under Professor Michael Gibson-Light, using qualitative methods for a project on unionizing working prisoners in the United States in the 1970s.
 
-Most of my non-academic career time has been spent working in either bookstores or bars. I am passionate about independent publishing and small presses, experimenting with variations on a classic Negroni, and supporting translated works by queer authors. I currently reside in New York City where you can sometimes find me reading in a park, sewing with friends at a coffee shop, or exploring the streets looking for cats in dumpsters.
-!
+Most of my non-academic career time has been spent working in either bookstores or bars. I am passionate about independent publishing and small presses, experimenting with variations on a classic Negroni, and supporting translated works by queer authors. I currently reside in New York City where you can sometimes find me reading in a park, sewing with friends at a coffee shop, or exploring the streets looking for cats in dumpsters. !
 :::
 
 <!-- Right Column: Image and Centered Icons Stack (Takes up 5/12th of the width) -->
-::: {.g-col-12 .g-col-md-5 .d-flex .flex-column .align-items-center}
 
+:::: {.g-col-12 .g-col-md-5 .d-flex .flex-column .align-items-center}
 <!-- The Profile Image -->
-![](mousetest.jpg){width="280px" .img-fluid .rounded-4 .shadow-sm}
+
+![](mousetest.jpg){.img-fluid .rounded-4 .shadow-sm width="280px"}
 
 <!-- Centered Social Outline Buttons -->
+
 ::: {.d-flex .justify-content-center .gap-3 .mt-4}
-<a href="https://github.com/gormanr33" target="_blank" class="btn btn-outline-dark btn-lg px-3"><i class="bi bi-github fs-3"></i></a>
-<a href="https://www.linkedin.com/in/rachel-gorman-6825431b9" target="_blank" class="btn btn-outline-primary btn-lg px-3"><i class="bi bi-linkedin fs-3"></i></a>
-<a href="mailto:gormanr33@gmail.com" class="btn btn-outline-danger btn-lg px-3"><i class="bi bi-envelope-fill"></i></a>
+<a href="https://github.com/gormanr33" target="_blank" class="btn btn-outline-dark btn-lg px-3"><i class="bi bi-github fs-3"></i></a> <a href="https://www.linkedin.com/in/rachel-gorman-6825431b9" target="_blank" class="btn btn-outline-primary btn-lg px-3"><i class="bi bi-linkedin fs-3"></i></a> <a href="mailto:gormanr33@gmail.com" class="btn btn-outline-danger btn-lg px-3"><i class="bi bi-envelope-fill"></i></a>
 :::
-
-:::
-
-:::
+::::
+::::::
