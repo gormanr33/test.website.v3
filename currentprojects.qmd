@@ -1,5 +1,6 @@
 ---
 title: "Current Projects"
+page-layout: article
 ---
 
 ::::: {style="display: flex; gap: 20px;"}
