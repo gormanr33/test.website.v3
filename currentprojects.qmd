@@ -7,7 +7,7 @@ page-layout: article
 ::: {style="flex: 1; min-width: 0; overflow-wrap: break-word; border: 1px solid #ccc; padding: 15px; border-radius: 8px; background-color: #f9f9f9;"}
 ### [OkStupid](https://gormanr33.github.io/dashboard.v2/){target="_blank"}
 
-	In January 2026, a hacker collective called [**Martha Root**](https://linktr.ee/back2TheR00t) leaked data from the far-right white supremacist dating website **whitedate.net**, a platform that described itself as a site for “Europids seeking tribal love.”.
+	In January 2026, a hacker collective called [Martha Root](https://linktr.ee/back2TheR00t) leaked data from the far-right white supremacist dating website **whitedate.net**, a platform that described itself as a site for “Europids seeking tribal love.”.
 “Europids” is a term commonly used in white supremacist and eugenicist spaces. The language reflects racist beliefs that race is biologically fixed and hierarchical, a sentiment that is quite common in modern far-right extremist communities. After scrubbing private emails and direct messages, **Martha Root** publicly released the remaining dataset (here is the [link](https://okstupid.lol) to their project). This project explores this data through a series of visualizations created for a Data Visualization course at Hunter College in May 2026.
   The original dataset contained **8,177 user entries**. After cleaning, the final working dataset used for analysis contained **8,130 entries**. Each visualization was then cleaned and recoded independently. 
 
