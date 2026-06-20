@@ -1,6 +1,5 @@
 ---
 page-layout: full
-page-layout: article
 ---
 
 :::::: grid
