@@ -4,7 +4,7 @@ page-layout: article
 ---
 
 ::::: {style="display: flex; gap: 20px;"}
-::: {style="flex: 1; border: 1px solid #ccc; padding: 15px; border-radius: 8px; background-color: #f9f9f9;"}
+::: {style="flex: 1; min-width: 0; border: 1px solid #ccc; padding: 15px; border-radius: 8px; background-color: #f9f9f9;"}
 ### [OkStupid](https://gormanr33.github.io/dashboard.v2/){target="_blank"}
 
 	In January 2026, a hacker collective called **[Martha Root]**(https://linktr.ee/back2TheR00t) leaked data from the far-right white supremacist dating website **whitedate.net**, a platform that described itself as a site for “Europids seeking tribal love.”.
@@ -13,7 +13,7 @@ page-layout: article
 
 :::
 
-::: {style="flex: 1; border: 1px solid #ccc; padding: 15px; border-radius: 8px; background-color: #f9f9f9;"}
+::: {style="flex: 1; min-width: 0; border: 1px solid #ccc; padding: 15px; border-radius: 8px; background-color: #f9f9f9;"}
 ### [ICE/CBP Deaths](https://google.com){target="_blank"}
 
   ICE/CBP Shootings and Detention Center Deaths Dataset {Link to Dataset in Progress, Currently Unavailable}
