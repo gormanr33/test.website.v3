@@ -1,6 +1,6 @@
 ---
 title: "Current Projects"
-page-layout: article
+page-layout: full
 ---
 
 ::::: {style="display: flex; gap: 20px; align-items: stretch;"}
