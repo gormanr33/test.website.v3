@@ -6,6 +6,7 @@ format: html
 
 <!-- Raw HTML Block for the Userbox -->
 ```{r, echo=FALSE, results='asis'}
+angel.png <- knitr::include_graphics("angel.png")
 cat('
 <style>
 .userbox {
@@ -25,7 +26,7 @@ cat('
   align-items: center;
   justify-content: center;
   width: 45px;
-  background-color: #6e5084;
+  background-color: #ece1f5;
   border-right: 1px solid #6e5084;
 }
 
@@ -39,6 +40,7 @@ cat('
 .ubx-info {
   display: flex;
   align-items: center;
+  color: #226663;
   padding: 0 6px;
   flex-grow: 1;
   color: #226663;
@@ -62,8 +64,8 @@ cat('
   display: flex;
   width: 238px;
   height: 45px;
-  border: 1px solid #999999;
-  background-color: #f8f9fa;
+  border: 1px solid #6e5084;
+  background-color: #f7f1fc;
   font-family: sans-serif;
   font-size: 8pt;
   color: #000000;
@@ -74,14 +76,15 @@ cat('
   align-items: center;
   justify-content: center;
   width: 45px;
-  background-color: #dddddd;
+  background-color: #ece1f5;
   font-size: 14pt;
   font-weight: bold;
-  border-right: 1px solid #999999;
+  border-right: 1px solid #6e5084;
 }
 .ubx-info {
   display: flex;
   align-items: center;
+  background-color: #226663;
   padding: 0 6px;
   flex-grow: 1;
 }
