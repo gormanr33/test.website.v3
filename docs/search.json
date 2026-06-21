@@ -1,31 +1,17 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Hi, I’m Rachel Gorman",
-    "section": "",
-    "text": "I’m a graduate student in Applied Digital Sociology at Hunter College. My research focuses on the intersection of digital spaces and society, exploring how online far-right radicalization translates into offline violence using mixed methodologies.\nMy academic background is in criminology and sociological studies, with experience as a qualitative research assistant. I am passionate about contributing to impactful research through academic, non-profit, and industry opportunities in research, writing, and editorial work.\nRead More"
-  },
-  {
-    "objectID": "currentprojects.html",
-    "href": "currentprojects.html",
-    "title": "Current Projects",
-    "section": "",
-    "text": "OkStupid Data Dashboard\nIn January 2026, a hacker collective called Martha Root leaked data from the far-right white supremacist dating website whitedate.net, a platform that described itself as a site for “Europids seeking tribal love.”. “Europids” is a term commonly used in white supremacist and eugenicist spaces. The language reflects racist beliefs that race is biologically fixed and hierarchical, a sentiment that is quite common in modern far-right extremist communities. After scrubbing private emails and direct messages, Martha Root publicly released the remaining dataset (here is the link to their project). This project explores this data through a series of visualizations created for a Data Visualization course at Hunter College in May 2026.\nThe original dataset contained 8,177 user entries. After cleaning, the final working dataset used for analysis contained 8,130 entries. Each visualization was then cleaned and recoded independently.\n\n\nICE/CBP Deaths\nICE/CBP Shootings and Detention Center Deaths Dataset {Link to Dataset in Progress, Currently Unavailable}\nThis is an original dataset compiled from open-source data that tracks deaths and shootings related to ICE and CBP from 2026-2024, with plans to expand through 2012. This dataset is a work in progress which is compiled, coded, and maintained by me. Once published, all information will be available for public download. Please direct any questions/concerns/issues with the dashboard to my email."
-  },
-  {
-    "objectID": "about4.html",
-    "href": "about4.html",
+    "objectID": "user.html",
+    "href": "user.html",
     "title": "Rachel Gorman, MSc",
     "section": "",
-    "text": "I’m a graduate student in the M.S. Applied Digital Sociology program at Hunter College with a research focus on how digital far-right radicalization transitions to violent extremism offline. I am focused on mixed methodology research methods and open-source investigation. My academic background is in Criminology and Sociolegal studies, focusing on the United States carceral system and underlying power structures. My current research interest is how the interaction between the power structures of the US criminal justice system interacts with far-right radicalization and violence against marginalized groups, domestic violence, and sexual violence.\nI received a B.A. in Criminology with a minor in Sociolegal Studies from the University of Denver (Denver, CO) in 2022 and an A.A. in Criminal Justice from SUNY Ulster (Stone Ridge, NY) in 2020. At the University of Denver, I worked as a research assistant under Professor Michael Gibson-Light, using qualitative methods for a project on unionizing working prisoners in the United States in the 1970s.\nMost of my non-academic career time has been spent working in either bookstores or bars. I am passionate about independent publishing and small presses, experimenting with variations on a classic Negroni, and supporting translated works by queer authors. I currently reside in New York City where you can sometimes find me reading in a park, sewing with friends at a coffee shop, or exploring the streets looking for cats in dumpsters. !"
+    "text": "R\n\n\nThis user codes in R and deploys with Quarto!"
   },
   {
-    "objectID": "about4.html#about-me",
-    "href": "about4.html#about-me",
+    "objectID": "user.html#about-me",
+    "href": "user.html#about-me",
     "title": "Rachel Gorman, MSc",
     "section": "",
-    "text": "I’m a graduate student in the M.S. Applied Digital Sociology program at Hunter College with a research focus on how digital far-right radicalization transitions to violent extremism offline. I am focused on mixed methodology research methods and open-source investigation. My academic background is in Criminology and Sociolegal studies, focusing on the United States carceral system and underlying power structures. My current research interest is how the interaction between the power structures of the US criminal justice system interacts with far-right radicalization and violence against marginalized groups, domestic violence, and sexual violence.\nI received a B.A. in Criminology with a minor in Sociolegal Studies from the University of Denver (Denver, CO) in 2022 and an A.A. in Criminal Justice from SUNY Ulster (Stone Ridge, NY) in 2020. At the University of Denver, I worked as a research assistant under Professor Michael Gibson-Light, using qualitative methods for a project on unionizing working prisoners in the United States in the 1970s.\nMost of my non-academic career time has been spent working in either bookstores or bars. I am passionate about independent publishing and small presses, experimenting with variations on a classic Negroni, and supporting translated works by queer authors. I currently reside in New York City where you can sometimes find me reading in a park, sewing with friends at a coffee shop, or exploring the streets looking for cats in dumpsters. !"
+    "text": "R\n\n\nThis user codes in R and deploys with Quarto!"
   },
   {
     "objectID": "cv.html",
@@ -75,5 +61,33 @@
     "title": "CV",
     "section": "Skills",
     "text": "Skills"
+  },
+  {
+    "objectID": "about4.html",
+    "href": "about4.html",
+    "title": "Rachel Gorman, MSc",
+    "section": "",
+    "text": "I’m a graduate student in the M.S. Applied Digital Sociology program at Hunter College with a research focus on how digital far-right radicalization transitions to violent extremism offline. I am focused on mixed methodology research methods and open-source investigation. My academic background is in Criminology and Sociolegal studies, focusing on the United States carceral system and underlying power structures. My current research interest is how the interaction between the power structures of the US criminal justice system interacts with far-right radicalization and violence against marginalized groups, domestic violence, and sexual violence.\nI received a B.A. in Criminology with a minor in Sociolegal Studies from the University of Denver (Denver, CO) in 2022 and an A.A. in Criminal Justice from SUNY Ulster (Stone Ridge, NY) in 2020. At the University of Denver, I worked as a research assistant under Professor Michael Gibson-Light, using qualitative methods for a project on unionizing working prisoners in the United States in the 1970s.\nMost of my non-academic career time has been spent working in either bookstores or bars. I am passionate about independent publishing and small presses, experimenting with variations on a classic Negroni, and supporting translated works by queer authors. I currently reside in New York City where you can sometimes find me reading in a park, sewing with friends at a coffee shop, or exploring the streets looking for cats in dumpsters. !"
+  },
+  {
+    "objectID": "about4.html#about-me",
+    "href": "about4.html#about-me",
+    "title": "Rachel Gorman, MSc",
+    "section": "",
+    "text": "I’m a graduate student in the M.S. Applied Digital Sociology program at Hunter College with a research focus on how digital far-right radicalization transitions to violent extremism offline. I am focused on mixed methodology research methods and open-source investigation. My academic background is in Criminology and Sociolegal studies, focusing on the United States carceral system and underlying power structures. My current research interest is how the interaction between the power structures of the US criminal justice system interacts with far-right radicalization and violence against marginalized groups, domestic violence, and sexual violence.\nI received a B.A. in Criminology with a minor in Sociolegal Studies from the University of Denver (Denver, CO) in 2022 and an A.A. in Criminal Justice from SUNY Ulster (Stone Ridge, NY) in 2020. At the University of Denver, I worked as a research assistant under Professor Michael Gibson-Light, using qualitative methods for a project on unionizing working prisoners in the United States in the 1970s.\nMost of my non-academic career time has been spent working in either bookstores or bars. I am passionate about independent publishing and small presses, experimenting with variations on a classic Negroni, and supporting translated works by queer authors. I currently reside in New York City where you can sometimes find me reading in a park, sewing with friends at a coffee shop, or exploring the streets looking for cats in dumpsters. !"
+  },
+  {
+    "objectID": "currentprojects.html",
+    "href": "currentprojects.html",
+    "title": "Current Projects",
+    "section": "",
+    "text": "OkStupid Data Dashboard\nIn January 2026, a hacker collective called Martha Root leaked data from the far-right white supremacist dating website whitedate.net, a platform that described itself as a site for “Europids seeking tribal love.”. “Europids” is a term commonly used in white supremacist and eugenicist spaces. The language reflects racist beliefs that race is biologically fixed and hierarchical, a sentiment that is quite common in modern far-right extremist communities. After scrubbing private emails and direct messages, Martha Root publicly released the remaining dataset (here is the link to their project). This project explores this data through a series of visualizations created for a Data Visualization course at Hunter College in May 2026.\nThe original dataset contained 8,177 user entries. After cleaning, the final working dataset used for analysis contained 8,130 entries. Each visualization was then cleaned and recoded independently.\n\n\nICE/CBP Deaths\nICE/CBP Shootings and Detention Center Deaths Dataset {Link to Dataset in Progress, Currently Unavailable}\nThis is an original dataset compiled from open-source data that tracks deaths and shootings related to ICE and CBP from 2026-2024, with plans to expand through 2012. This dataset is a work in progress which is compiled, coded, and maintained by me. Once published, all information will be available for public download. Please direct any questions/concerns/issues with the dashboard to my email."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hi, I’m Rachel Gorman",
+    "section": "",
+    "text": "I’m a graduate student in Applied Digital Sociology at Hunter College. My research focuses on the intersection of digital spaces and society, exploring how online far-right radicalization translates into offline violence using mixed methodologies.\nMy academic background is in criminology and sociological studies, with experience as a qualitative research assistant. I am passionate about contributing to impactful research through academic, non-profit, and industry opportunities in research, writing, and editorial work.\nRead More"
   }
 ]

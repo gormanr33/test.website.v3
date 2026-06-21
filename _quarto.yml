@@ -20,6 +20,8 @@ website:
         text: "CV"
       - href: currentprojects.qmd
         text: "Current Projects"
+      - href: user.qmd
+        text: "UserBoxes"
       - icon: envelope
         href: mailto:gormanr33@gmail.com
       - icon: linkedin
