@@ -12,6 +12,56 @@ cat('
   display: flex;
   width: 238px;
   height: 45px;
+  border: 1px solid #6e5084;
+  background-color: #f7f1fc;
+  font-family: sans-serif;
+  font-size: 8pt;
+  color: #226663;
+  margin: 5px;
+}
+
+.ubx-id {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 45px;
+  background-color: #6e5084;
+  border-right: 1px solid #6e5084;
+}
+
+.ubx-id img {
+  width: 32px;
+  height: 32px;
+  object-fit: contain;
+  display: block;
+}
+
+.ubx-info {
+  display: flex;
+  align-items: center;
+  padding: 0 6px;
+  flex-grow: 1;
+  color: #226663;
+}
+</style>
+
+<div class="userbox">
+  <div class="ubx-id">
+    <img src="angel.png" alt="Angel icon">
+  </div>
+  <div class="ubx-info">This user is being guided to heaven.</div>
+</div>
+')
+```
+
+<!-- Raw HTML Block for the Userbox -->
+```{r, echo=FALSE, results='asis'}
+cat('
+<style>
+.userbox {
+  display: flex;
+  width: 238px;
+  height: 45px;
   border: 1px solid #999999;
   background-color: #f8f9fa;
   font-family: sans-serif;
@@ -39,7 +89,48 @@ cat('
 
 <div class="userbox">
   <div class="ubx-id">R</div>
-  <div class="ubx-info">This user codes in R and deploys with Quarto!</div>
+  <div class="ubx-info">This user is guided by the stars above.</div>
+</div>
+')
+```
+
+
+<!-- Raw HTML Block for the Userbox -->
+```{r, echo=FALSE, results='asis'}
+cat('
+<style>
+.userbox {
+  display: flex;
+  width: 238px;
+  height: 45px;
+  border: 1px solid #999999;
+  background-color: #f8f9fa;
+  font-family: sans-serif;
+  font-size: 8pt;
+  color: #000000;
+  margin: 5px;
+}
+.ubx-id {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 45px;
+  background-color: #dddddd;
+  font-size: 14pt;
+  font-weight: bold;
+  border-right: 1px solid #999999;
+}
+.ubx-info {
+  display: flex;
+  align-items: center;
+  padding: 0 6px;
+  flex-grow: 1;
+}
+</style>
+
+<div class="userbox">
+  <div class="ubx-id">R</div>
+  <div class="ubx-info">This user is being guided to heaven.</div>
 </div>
 ')
 ```
