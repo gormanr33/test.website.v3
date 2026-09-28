@@ -1,0 +1,38 @@
+---
+title: "index2"
+---
+
+::::: hero
+::: hero-image
+```         
+<img src="images/fall.jpg" alt="Rachel Gorman">
+```
+:::
+
+::: hero-text
+```         
+<h1>Rachel Gorman</h1>
+
+<p class="subtitle">
+  Research Analyst · Applied Digital Sociology · Political Violence & Digital Research
+</p>
+
+<p>
+  I am a research analyst specializing in mixed-methods research, data analysis,
+  open-source investigation, and data visualization. My work focuses on political
+  violence, far-right digital radicalization, and the relationship between digital
+  and offline forms of violence.
+</p>
+
+<div class="credentials">
+  <strong>Research Analyst at the Bridging Divides Initiative</strong>
+  <strong>M.S. Applied Digital Sociology, Hunter College</strong>
+</div>
+
+<div class="hero-links">
+  <a href="current-projects.qmd">View Current Projects</a>
+  <a href="cv.qmd">View CV</a>
+</div>
+```
+:::
+:::::

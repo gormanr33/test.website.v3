@@ -14,7 +14,9 @@ website:
     right:
       - href: index.qmd
         text: "Home"
-      - href: about4.qmd
+      - href: index2.qmd
+        text: "home2"
+      - href: about.qmd
         text: "About"
       - href: cv.qmd
         text: "CV"

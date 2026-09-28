@@ -35,9 +35,9 @@ I received an M.S. in Applied Digital Sociology from Hunter College, a B.A. in C
 
 At the University of Denver, I worked as a research assistant under Professor Michael Gibson-Light, using qualitative methods for a project on unionizing working prisoners in the United States in the 1970s.
 
-***Etc.*** 
+**Etc.** 
 
-Most of my non-academic career time has been spent working in either independent bookstores or bars. I am passionate about small presses and translated fiction, experimenting with variations on a classic Negroni, and mending clothing. I currently reside in New York City where you can find me hanging out at the Rockaways, reading in a park, or exploring the streets looking for cats in dumpsters. !
+Most of my non-academic career time has been spent working in either independent bookstores or bars. I am passionate about small presses and translated fiction, experimenting with variations on a classic Negroni, and mending clothing. I currently reside in New York City where you can find me hanging out at the Rockaways, reading in a park, or exploring the streets looking for cats in dumpsters.
 
 :::
 
@@ -47,11 +47,3 @@ Most of my non-academic career time has been spent working in either independent
 <!-- The Profile Image -->
 
 ![](mousetest.jpg){.img-fluid .rounded-4 .shadow-sm width="280px"}
-
-<!-- Centered Social Outline Buttons -->
-
-::: {.d-flex .justify-content-center .gap-3 .mt-4}
-<a href="https://github.com/gormanr33" target="_blank" class="btn btn-outline-dark btn-lg px-3"><i class="bi bi-github fs-3"></i></a> <a href="https://www.linkedin.com/in/rachel-gorman-6825431b9" target="_blank" class="btn btn-outline-primary btn-lg px-3"><i class="bi bi-linkedin fs-3"></i></a> <a href="mailto:gormanr33@gmail.com" class="btn btn-outline-danger btn-lg px-3"><i class="bi bi-envelope-fill"></i></a>
-:::
-::::
-::::::
