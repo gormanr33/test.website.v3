@@ -2,7 +2,7 @@
 page-layout: full
 ---
 
-:::::: grid
+::::: grid
 <!-- Left Column: Biography / Text Box (Takes up 7/12th of the width) -->
 
 ::: {.g-col-12 .g-col-md-7}
@@ -10,8 +10,7 @@ page-layout: full
 
 I am a research analyst and recent graduate of the M.S. in Applied Digital Sociology program at Hunter College. I am a Research Assistant at the Bridging Divides Initiative, where I study political violence at the national, state, and county levels.
 
-My work combines mixed-methods research, data analysis, open-source investigation, and data visualization. I work primarily with R, Stata, and Tableau, and have experience translating large-scale event and survey data into policy-relevant, partner-facing research products for academic, nonprofit, and industry audiences.
-My research interests include political violence, far-right digital radicalization, digital gender-based violence, and the relationship between online and offline forms of violence. My academic background in criminology and sociolegal studies has shaped my interest in these areas of study as well as providing a background knowledge on the United States criminal justice system and its underlying power structures.
+My work combines mixed-methods research, data analysis, open-source investigation, and data visualization. I work primarily with R, Stata, and Tableau, and have experience translating large-scale event and survey data into policy-relevant, partner-facing research products for academic, nonprofit, and industry audiences. My research interests include political violence, far-right digital radicalization, digital gender-based violence, and the relationship between online and offline forms of violence. My academic background in criminology and sociolegal studies has shaped my interest in these areas of study as well as providing a background knowledge on the United States criminal justice system and its underlying power structures.
 
 **Research Experience**
 
@@ -35,15 +34,16 @@ I received an M.S. in Applied Digital Sociology from Hunter College, a B.A. in C
 
 At the University of Denver, I worked as a research assistant under Professor Michael Gibson-Light, using qualitative methods for a project on unionizing working prisoners in the United States in the 1970s.
 
-**Etc.** 
+**Etc.**
 
 Most of my non-academic career time has been spent working in either independent bookstores or bars. I am passionate about small presses and translated fiction, experimenting with variations on a classic Negroni, and mending clothing. I currently reside in New York City where you can find me hanging out at the Rockaways, reading in a park, or exploring the streets looking for cats in dumpsters.
-
 :::
 
 <!-- Right Column: Image and Centered Icons Stack (Takes up 5/12th of the width) -->
 
-:::: {.g-col-12 .g-col-md-5 .d-flex .flex-column .align-items-center}
+::: {.g-col-12 .g-col-md-5 .d-flex .flex-column .align-items-center}
 <!-- The Profile Image -->
 
 ![](mousetest.jpg){.img-fluid .rounded-4 .shadow-sm width="280px"}
+:::
+:::::
