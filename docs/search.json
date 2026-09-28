@@ -4,7 +4,7 @@
     "href": "index2.html",
     "title": "index2",
     "section": "",
-    "text": "&lt;img src=\"images/fall.jpg\" alt=\"Rachel Gorman\"&gt;\n\n\n&lt;h1&gt;Rachel Gorman&lt;/h1&gt;\n\n&lt;p class=\"subtitle\"&gt;\n  Research Analyst · Applied Digital Sociology · Political Violence & Digital Research\n&lt;/p&gt;\n\n&lt;p&gt;\n  I am a research analyst specializing in mixed-methods research, data analysis,\n  open-source investigation, and data visualization. My work focuses on political\n  violence, far-right digital radicalization, and the relationship between digital\n  and offline forms of violence.\n&lt;/p&gt;\n\n&lt;div class=\"credentials\"&gt;\n  &lt;strong&gt;Research Analyst at the Bridging Divides Initiative&lt;/strong&gt;\n  &lt;strong&gt;M.S. Applied Digital Sociology, Hunter College&lt;/strong&gt;\n&lt;/div&gt;\n\n&lt;div class=\"hero-links\"&gt;\n  &lt;a href=\"current-projects.qmd\"&gt;View Current Projects&lt;/a&gt;\n  &lt;a href=\"cv.qmd\"&gt;View CV&lt;/a&gt;\n&lt;/div&gt;"
+    "text": "Rachel Gorman\nResearch Analyst · Applied Digital Sociology · Political Violence & Digital Research\nI am a research analyst specializing in mixed-methods research, data analysis, open-source investigation, and data visualization. My work focuses on political violence, far-right digital radicalization, and the relationship between digital and offline forms of violence.\nResearch Analyst at the Bridging Divides Initiative\nM.S. Applied Digital Sociology, Hunter College\nView Current Projects · View CV"
   },
   {
     "objectID": "cv.html",
