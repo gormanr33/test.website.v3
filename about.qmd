@@ -41,12 +41,14 @@ Most of my non-academic career time has been spent working in either independent
 
 <!-- Right Column: Image and Centered Icons Stack (Takes up 5/12th of the width) -->
 
-::: {.g-col-12 .g-col-md-5 .d-flex .flex-column .align-items-center}
+::: {.g-col-12 .g-col-md-5}
+
+<div style="position: sticky; top: 100px; text-align: center;">
 <!-- The Profile Image -->
 
 ![](mousetest.jpg){.img-fluid .rounded-4 .shadow-sm width="280px"}
 
-<div class="mt-4 d-flex gap-3">
+<div class="mt-4 d-flex justify-content-center gap-3">
 
 <a href="https://www.linkedin.com/in/rachel-gorman-6825431b9" target="_blank" class="btn btn-outline-secondary">
 <i class="bi bi-linkedin"></i>
@@ -59,6 +61,8 @@ Most of my non-academic career time has been spent working in either independent
 <a href="mailto:gormanr33@gmail.com" class="btn btn-outline-secondary">
 <i class="bi bi-envelope-fill"></i>
 </a>
+
+</div>
 
 </div>
 
