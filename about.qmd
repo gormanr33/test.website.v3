@@ -45,5 +45,22 @@ Most of my non-academic career time has been spent working in either independent
 <!-- The Profile Image -->
 
 ![](mousetest.jpg){.img-fluid .rounded-4 .shadow-sm width="280px"}
+
+<div class="mt-4 d-flex gap-3">
+
+<a href="https://www.linkedin.com/in/rachel-gorman-6825431b9" target="_blank" class="btn btn-outline-secondary">
+<i class="bi bi-linkedin"></i>
+</a>
+
+<a href="https://github.com/gormanr33" target="_blank" class="btn btn-outline-secondary">
+<i class="bi bi-github"></i>
+</a>
+
+<a href="mailto:gormanr33@gmail.com" class="btn btn-outline-secondary">
+<i class="bi bi-envelope-fill"></i>
+</a>
+
+</div>
+
 :::
 :::::
