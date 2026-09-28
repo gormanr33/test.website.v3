@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://rachel-gorman.com/index2.html</loc>
-    <lastmod>2026-09-28T23:05:30.985Z</lastmod>
-  </url>
-  <url>
-    <loc>https://rachel-gorman.com/cv.html</loc>
-    <lastmod>2026-09-28T23:05:30.980Z</lastmod>
-  </url>
-  <url>
-    <loc>https://rachel-gorman.com/about.html</loc>
-    <lastmod>2026-09-28T23:05:30.980Z</lastmod>
+    <loc>https://rachel-gorman.com/index.html</loc>
+    <lastmod>2026-09-28T23:11:27.061Z</lastmod>
   </url>
   <url>
     <loc>https://rachel-gorman.com/currentprojects.html</loc>
-    <lastmod>2026-09-28T23:05:30.980Z</lastmod>
+    <lastmod>2026-09-28T23:11:27.056Z</lastmod>
   </url>
   <url>
-    <loc>https://rachel-gorman.com/index.html</loc>
-    <lastmod>2026-09-28T23:05:30.985Z</lastmod>
+    <loc>https://rachel-gorman.com/about.html</loc>
+    <lastmod>2026-09-28T23:11:27.056Z</lastmod>
+  </url>
+  <url>
+    <loc>https://rachel-gorman.com/cv.html</loc>
+    <lastmod>2026-09-28T23:11:27.056Z</lastmod>
   </url>
 </urlset>
