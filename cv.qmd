@@ -4,18 +4,21 @@ title: CV
 
 ## Education
 
-**MSc (2026)** Hunter College, Applied Digital Sociology
+**MSc (2026)** Hunter College | Applied Digital Sociology
+
 4.0/4.0 GPA
 
-**BA (2022)** University of Denver, Criminology; Minor in Sociolegal Studies and Creative Writing
+**BA (2022)** University of Denver | Criminology; Minor in Sociolegal Studies and Creative Writing
+
 3.6/4.0 GPA
 
-**AA (2020)** Ulster County Community College, Humanities & Social Sciences
+**AA (2020)** Ulster County Community College | Humanities & Social Sciences
+
 3.8/4.0 GPA
 
 ## Professional Experience
 
-**Bridging Divides Initiative** - Research Assistant
+**Bridging Divides Initiative** | Research Assistant | August 2025 - Current
 
 ▪	Cleaned, coded, and analyzed 500+ ACLED event records weekly in R/RStudio, applying standardized research protocols to support conflict-monitoring outputs.
 
@@ -28,7 +31,7 @@ title: CV
 ▪	Maintained and expanded an organizational data library of 25+ datasets by identifying relevant research resources and documenting variables, coverage, and applications.
 
 
-**Hunter College** - Research Assistant
+**Hunter College** | Research Assistant | February 2025 - March 2025
 
 ▪	Improved dataset reliability and robustness for strategic analysis by cleaning and validating 375 open-ended survey responses, scrubbing for duplicates and low-quality entries.
 
@@ -37,7 +40,7 @@ title: CV
 ▪	Synthesized coded findings into a strategic planning report, incorporating data visualizations and qualitative analysis to communicate key themes.
 
 
-**University of Denver** - Research Assistant
+**University of Denver** | Research Assistant | February 2022 - June 2022
 
 ▪	Conducted qualitative research on the unionization of incarcerated workers, refining coding schemes and transforming qualitative data into a structured quantitative dataset.
 
@@ -74,7 +77,7 @@ title: CV
 
 ## Other Work Experience
 
-**Rough Draft Bar and Books** - Book Buyer and Lead Bookseller
+**Rough Draft Bar and Books** | Book Buyer & Lead Bookseller | January 2023 - July 2024
 
 ▪	Managed inventory, purchasing, and vendor relationships while analyzing customer purchasing trends to optimize product selection and increase revenue by 23%.
 
@@ -83,4 +86,4 @@ title: CV
 ▪	Coordinated author events, including event logistics, social media promotion, and relationships with publishers and authors.
 
 
-**Various NYC restaurants & Bars** - Server / Bartender
+**Various restaurants & Bars** | Server / Bartender | 
