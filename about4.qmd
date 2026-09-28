@@ -8,11 +8,37 @@ page-layout: full
 ::: {.g-col-12 .g-col-md-7}
 ## About Me
 
-I’m a graduate student in the M.S. Applied Digital Sociology program at Hunter College with a research focus on how digital far-right radicalization transitions to violent extremism offline. I am focused on mixed methodology research methods and open-source investigation. My academic background is in Criminology and Sociolegal studies, focusing on the United States carceral system and underlying power structures. My current research interest is how the interaction between the power structures of the US criminal justice system interacts with far-right radicalization and violence against marginalized groups, domestic violence, and sexual violence.
+I am a research analyst and recent graduate of the M.S. in Applied Digital Sociology program at Hunter College. I am a Research Assistant at the Bridging Divides Initiative, where I study political violence at the national, state, and county levels.
 
-I received a B.A. in Criminology with a minor in Sociolegal Studies from the University of Denver (Denver, CO) in 2022 and an A.A. in Criminal Justice from SUNY Ulster (Stone Ridge, NY) in 2020. At the University of Denver, I worked as a research assistant under Professor Michael Gibson-Light, using qualitative methods for a project on unionizing working prisoners in the United States in the 1970s.
+My work combines mixed-methods research, data analysis, open-source investigation, and data visualization. I work primarily with R, Stata, and Tableau, and have experience translating large-scale event and survey data into policy-relevant, partner-facing research products for academic, nonprofit, and industry audiences.
+My research interests include political violence, far-right digital radicalization, digital gender-based violence, and the relationship between online and offline forms of violence. My academic background in criminology and sociolegal studies has shaped my interest in these areas of study as well as providing a background knowledge on the United States criminal justice system and its underlying power structures.
 
-Most of my non-academic career time has been spent working in either bookstores or bars. I am passionate about independent publishing and small presses, experimenting with variations on a classic Negroni, and supporting translated works by queer authors. I currently reside in New York City where you can sometimes find me reading in a park, sewing with friends at a coffee shop, or exploring the streets looking for cats in dumpsters. !
+**Research Experience**
+
+At Hunter College, my research focused on how digital far-right radicalization can transition to violent extremism offline. I used mixed methods approaches to examine how digital spaces, ideology, gender, and political violence intersect.
+
+My graduate research included examining language use on self-populated far right and white supremacist websites, with a focus on ideological, gendered, and violent language. I also studied the role of the state in political violence by examining police presence, use of force, and the escalation of violence at political protests.
+
+My work has also included working with large-scale datasets and translating complex data into accessible visualizations and research products. My final research project at Hunter College examined leaked data from the white supremacist dating website Whitedate.net and resulted in a publicly available data visualization dashboard.
+
+**Independent Research**
+
+In addition to my academic and professional research, I am developing and maintaining open-source datasets related to political violence and government activity.
+
+My primary ongoing project tracks ICE and CBP shootings and detention center deaths using publicly available sources. The dataset is compiled, coded, and maintained by me, with plans to expand the dataset historically. Once published, the data will be available for public download.
+
+**Academic Background**
+
+My academic background is in Criminology and Sociolegal Studies, with a focus on the United States carceral system and underlying power structures.
+
+I received an M.S. in Applied Digital Sociology from Hunter College, a B.A. in Criminology with a minor in Sociolegal Studies from the University of Denver, and an A.A. in Criminal Justice from SUNY Ulster.
+
+At the University of Denver, I worked as a research assistant under Professor Michael Gibson-Light, using qualitative methods for a project on unionizing working prisoners in the United States in the 1970s.
+
+***Etc.*** 
+
+Most of my non-academic career time has been spent working in either independent bookstores or bars. I am passionate about small presses and translated fiction, experimenting with variations on a classic Negroni, and mending clothing. I currently reside in New York City where you can find me hanging out at the Rockaways, reading in a park, or exploring the streets looking for cats in dumpsters. !
+
 :::
 
 <!-- Right Column: Image and Centered Icons Stack (Takes up 5/12th of the width) -->
