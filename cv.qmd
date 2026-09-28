@@ -4,39 +4,83 @@ title: CV
 
 ## Education
 
-__MSc (2026)__
-Hunter College, Applied Digital Sociologies  
-Independent Project:
+**MSc (2026)** Hunter College, Applied Digital Sociology
+4.0/4.0 GPA
 
-__BA (2022)__
-University of Denver, Criminology; Minor in Sociolegal Studies and Creative Writing 
-Independent Project: 
+**BA (2022)** University of Denver, Criminology; Minor in Sociolegal Studies and Creative Writing
+3.6/4.0 GPA
 
-__AA (2020)__
-Ulster County Community College, Humanities & Social Sciences 
-Independent Project: 
+**AA (2020)** Ulster County Community College, Humanities & Social Sciences
+3.8/4.0 GPA
 
 ## Professional Experience
 
+**Bridging Divides Initiative** - Research Assistant
+
+▪	Cleaned, coded, and analyzed 500+ ACLED event records weekly in R/RStudio, applying standardized research protocols to support conflict-monitoring outputs.
+
+▪	Resolved and reported on partner research questions on political violence and unrest by analyzing proprietary datasets in R to produce customized state and county-level analyses.
+
+▪	Transmitted critical research findings to internal teams and external partners by developing and maintaining Tableau dashboards and updating its visualizations weekly.
+
+▪	Delivered partner-facing research briefs for external research requests, translating raw event data into findings and methodological documentation for partner use.
+
+▪	Maintained and expanded an organizational data library of 25+ datasets by identifying relevant research resources and documenting variables, coverage, and applications.
+
+
+**Hunter College** - Research Assistant
+
+▪	Improved dataset reliability and robustness for strategic analysis by cleaning and validating 375 open-ended survey responses, scrubbing for duplicates and low-quality entries.
+
+▪	Transformed unstructured survey data into analyzable datasets by developing qualitative coding schemas and systematically coding open-ended responses.
+
+▪	Synthesized coded findings into a strategic planning report, incorporating data visualizations and qualitative analysis to communicate key themes.
+
+
+**University of Denver** - Research Assistant
+
+▪	Conducted qualitative research on the unionization of incarcerated workers, refining coding schemes and transforming qualitative data into a structured quantitative dataset.
+
+▪	Authored research memos and collaborated with the research team to analyze themes and findings.
+
+▪	Contributed research to a published study in The Prison Journal: Gibson-Light, Michael. 2023. "The Ghosts Inside: The Historic Struggle to Reclassify Prison Labor, 1967–1979." The Prison Journal 103(4): 489–512.
+
+
 ## Presentations
-__Charles Greene Day 2026__,
-Hunter College
+
+**Charles Greene Day 2026**, Hunter College
 
 "ICE/CBP Shootings + Detention Center Deaths 2025 – 2026"
 
-__ESS 2026__,
-Washington, D.C.
+**ESS 2026**, Washington, D.C.
 
 "When the State Shows Up: Police Presence, Use of Force, and the Escalation of Protest Violence"
 
-__ESS 2025__,
-Boston, M.A.
+**ESS 2025**, Boston, M.A.
 
-"From Virtual Extremism to Real World Aggression: Tracing the
-Role of Far-Right Radicalization in Sexual Violence"
+"From Virtual Extremism to Real World Aggression: Tracing the Role of Far-Right Radicalization in Sexual Violence"
 
-## Volunteer Experience
+## Technical and Research Skills
+
+**Data & Statistical Analysis:** R/RStudio; Stata; bivariate and multivariate analysis; exploratory factor analysis; Tableau; Excel; data cleaning and transformation; qualitative coding; mixed-methods research
+
+**Research Methods:** Qualitative research; survey research; data collection; literature reviews; systematic/scoping reviews; research design; coding schema development; data interpretation
+
+**Writing & Communication:** Research reports; research memos; policy briefs; data visualization; presentations; academic writing; copyediting and proofreading; transcription & data entry
+
+**Research Tools:** Zotero; Covidence; Airtable; Google Workspace; Microsoft Office
 
 ## Additional Qualifications
 
-## Skills
+## Other Work Experience
+
+**Rough Draft Bar and Books** - Book Buyer and Lead Bookseller
+
+▪	Managed inventory, purchasing, and vendor relationships while analyzing customer purchasing trends to optimize product selection and increase revenue by 23%.
+
+▪	Implemented an improved inventory tracking system, reducing stock shortages by 8%. 
+
+▪	Coordinated author events, including event logistics, social media promotion, and relationships with publishers and authors.
+
+
+**Various NYC restaurants & Bars** - Server / Bartender
